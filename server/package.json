@@ -1,0 +1,22 @@
+{
+  "name": "bigkbserver",
+  "version": "1.0.0",
+  "description": "bigkb service",
+  "main": "index.js",
+  "scripts": {
+   "start" : "node server.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markbertoglio/bigkb.git"
+  },
+  "author": "mark bertoglio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markbertoglio/bigkb/issues"
+  },
+  "homepage": "https://github.com/markbertoglio/bigkb",
+  "dependencies" : {
+    "express" : "latest"
+  }
+}
